@@ -2,5 +2,5 @@
 <h1>
 This is my first repo.
   <br>
-Author-Tuhin Mondal
+Author-Tuhin Mondal (Human)
 </h1>
